@@ -1,5 +1,5 @@
 module.exports = {
-    setupdone: 'false',
+    setupdone: 'true',
 
     /**
      * Informations à propos du compte Twilio
@@ -11,7 +11,7 @@ module.exports = {
     /**
      * Informations à propos de l'API
      */
-    apipassword: 'passwordtochange',
+    apipassword: 'yhlzPkviw6IaVppTH38lfvij6bWXOLZw',
     serverurl: 'http://yourserverip:1337',
 
     /**
